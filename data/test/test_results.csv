@@ -1,0 +1,101 @@
+,sn,job_title,probablity,deparment,deparment_code
+0,0,service sales service product manager,0.9208334907635736,management,20
+1,1,executive assistant to co founder,0.49933318128992815,information technology,21
+2,2,miniature art,0.6960972794778235,information technology,21
+3,3,sinior sales officer,0.9113352168573456,marketing and advertising,15
+4,4,consultant cardiologist,0.9773654099931743,information technology,21
+5,5,sap crm middleware,0.9894405239842933,information technology,21
+6,6,divisional internal auditor,0.4517330781404819,education,29
+7,7,deputy finance manager,0.9993576096487085,management,20
+8,8,program presenter,0.49975768207065785,management,20
+9,9,rsa archer ibm openpages grc administartor,0.7585273528532595,information technology,21
+10,10,sr legal manager,0.9915754907486984,management,20
+11,11,assistant professor corporate management,0.4830662302028896,education,29
+12,12,drive test engineer,0.9173370028968578,engineering and telecommunications,31
+13,13,sr chemist level,0.838395983757307,information technology,21
+14,14,secretary to chairman mg director,0.33196854600412773,education,29
+15,15,head technology solutions,0.8324542395065798,information technology,21
+16,16,jur enggner,0.5000597554181876,information technology,21
+17,17,global engineer,0.6707573118409931,engineering and telecommunications,31
+18,18,product head cv,0.9142642175704441,information technology,21
+19,19,evp regional business head bb abb north,0.9464762995608048,logistics and transportation,16
+20,20,sr clinical submission specialist,0.9922895416865244,information technology,21
+21,21,director selection grade,0.6462153399025033,information technology,21
+22,22,asst design engineer,0.957759293554326,engineering and telecommunications,31
+23,23,sr exe administration,0.5659862690356942,marketing and advertising,15
+24,24,sr supdt renov modernisation,0.5626561024664098,engineering and telecommunications,31
+25,25,ngo registration in delhi,0.4814952547046396,information technology,21
+26,26,chp khandwa,0.5000597554181876,information technology,21
+27,27,senior ui developer,0.9158029674218692,information technology,21
+28,28,technology specialist cfd,0.9806208268024311,information technology,21
+29,29,assistant marketting manager,0.9908014614092943,management,20
+30,30,teaching assitant,0.275485544175793,information technology,21
+31,31,share stock market,0.2848021436964396,management,20
+32,32,general manager chartering and ship broking,0.9783745330329408,management,20
+33,33,skm,0.5820313595356995,information technology,21
+34,34,aasistant accountant,0.5807833564701997,information technology,21
+35,35,asst manager ppc,0.995574482785822,management,20
+36,36,hr business consultant,0.6307373148027738,information technology,21
+37,37,sales managar,0.7223485224087197,marketing and advertising,15
+38,38,software architect and sr software developer tlkn,0.9809350592218663,information technology,21
+39,39,personal secretary to ceo md,0.40641338706466185,management,20
+40,40,assistant manager mechanical design and engineering,0.9334565918766143,management,20
+41,41,branch chief,0.8846337437893793,management,20
+42,42,datacom engineer,0.8890634834261242,engineering and telecommunications,31
+43,43,assistant general manager business development,0.9688260968131223,management,20
+44,44,ware house assistant,0.6372792144521501,management,20
+45,45,r officer,0.7813711751199053,information technology,21
+46,46,senior principal user interface engineer,0.5803027928000758,information technology,21
+47,47,laptop service engg,0.6413040256653939,information technology,21
+48,48,project manager plm,0.963686602952062,management,20
+49,49,dy director general telecom enforcement,0.46784914381582804,management,20
+50,50,manager advisory services,0.9835398077057738,management,20
+51,51,share stock broker,0.47783807451923527,engineering and telecommunications,31
+52,52,discovery breeder,0.5962330708209221,information technology,21
+53,53,service delivery analyst jde,0.8943511515371297,information technology,21
+54,54,assistant manager tcs,0.9807248351307527,management,20
+55,55,junior aisstance,0.6337665958616567,information technology,21
+56,56,president business development,0.9612352950249842,logistics and transportation,16
+57,57,program analyst p,0.7021168194317631,information technology,21
+58,58,executive instrumentation,0.4407908001001166,engineering and telecommunications,31
+59,59,national application manager,0.9658525466920055,management,20
+60,60,ceo india,0.44912165326119974,management,20
+61,61,siddharth tomar,0.5000597554181876,information technology,21
+62,62,ssae,0.5820218707236596,information technology,21
+63,63,chirman,0.5820313595356995,information technology,21
+64,64,sr lead generation and market research analyst,0.8630943572699412,education,29
+65,65,senior cad,0.4797880964773298,engineering and telecommunications,31
+66,66,engineer sales marketing,0.9233401841780113,marketing and advertising,15
+67,67,asst general manager marketing,0.986415052892393,management,20
+68,68,chief data architect,0.9636932807421883,information technology,21
+69,69,oracle,0.9305654760448943,information technology,21
+70,70,development organiser agriculture,0.3087519342800489,information technology,21
+71,71,e,0.5762595551150276,information technology,21
+72,72,job,0.7159237285695718,information technology,21
+73,73,systems engineer at infosys,0.8026908508742109,engineering and telecommunications,31
+74,74,director head of r d formulations,0.3391847278612763,marketing and advertising,15
+75,75,test engineer ii,0.9527450476413469,engineering and telecommunications,31
+76,76,telecom network engineer,0.9921779577681459,engineering and telecommunications,31
+77,77,birla iti,0.43482518650802887,information technology,21
+78,78,consultant infrastructure management,0.9886704368817848,information technology,21
+79,79,consulting advisor emerging technologies,0.5324483010700218,information technology,21
+80,80,piece worker,0.6484213944126203,information technology,21
+81,81,crm co ordinator,0.6832983455188593,information technology,21
+82,82,assistant manager field engineering,0.9826221079891897,management,20
+83,83,delivery lead business intelligence delivery unit,0.9255308590665287,logistics and transportation,16
+84,84,deputy general manager logistics projects,0.9998700200359726,management,20
+85,85,senior manager branch head,0.9746511192005307,management,20
+86,86,d g m mechanical,0.3942613495056301,management,20
+87,87,consultant ceramics,0.969304897385875,information technology,21
+88,88,civil structural pds designer,0.6435642946205112,design,6
+89,89,pr corporate communications,0.6189834004024068,management,20
+90,90,legal expert,0.7308651632191857,information technology,21
+91,91,assistant manager hr at bebo technologies,0.9822517352515863,management,20
+92,92,hr exec,0.673674497175337,management,20
+93,93,general manager sc india,0.990697418667012,management,20
+94,94,f b host,0.5820313595356995,information technology,21
+95,95,assistant manager purchase stores,0.9991170541091553,management,20
+96,96,deputy manger business acquistion,0.7765882154738343,logistics and transportation,16
+97,97,life member,0.6843029167667841,information technology,21
+98,98,branch service manger,0.6911131181990291,management,20
+99,99,technical illustrator design,0.943726314676523,information technology,21
