@@ -8,10 +8,10 @@ import re
 # # # # # # # # # 
 
 # Load training set
-job_titles = pd.read_csv('/home/thinh/workspace/leadbook2/data/training/job_titles_with_labels.csv')
+job_titles = pd.read_csv('data/training/job_titles_with_labels.csv')
 
 # we just take a randoom of 30k training data point for faster processing, but of course, we can use the entire data set
-job_titles=job_titles.sample(30000)
+# job_titles=job_titles.sample(30000)
 job_titles = job_titles.reset_index(drop=True)
 job_titles["job_title"]=job_titles["job_title"].apply(lambda x: re.sub(r'[^a-zA-Z]+', ' ', x).replace("  "," ").replace("  "," ").strip())
 print(job_titles["job_title"])
@@ -101,7 +101,7 @@ y = list(
 print(y)
 
 # load test set
-test_set = pd.read_csv('/home/thinh/workspace/leadbook2/data/jobtitles_test.csv')
+test_set = pd.read_csv('data/jobtitles_test.csv')
 # for simplicity, I just do the testing for the first 100 job titles in the test set
 test_set=test_set[:100]
 test_set = test_set.reset_index(drop=True)
@@ -131,7 +131,8 @@ print(df_new)
 # # # # # # # # # 
 # NB model fitting
 # # # # # # # # # 
-naive_bayes = BernoulliNB(alpha=1)  # make alpha 1
+alpha=1
+naive_bayes = BernoulliNB(alpha=alpha)  # make alpha 1
 naive_bayes.fit(X=df, y=y)
 t=naive_bayes.predict_proba(X=df_new)
 
@@ -161,7 +162,7 @@ manual["departments.1"]
 
 j=0
 for i in manual.index:
-    print((i,manual["Job Title"][i],"|||",NB["job_title"][i]))
+    print((i,manual["Job Title"][i],"|",manual["departments.1"][i],"|||",NB["job_title"][i],"|",NB["deparment"][i]))
     if manual["departments.1"][i]==NB["deparment"][i]:
         j+=1
         print(rows[i],manual["departments.1"][i],NB["deparment"][i])
